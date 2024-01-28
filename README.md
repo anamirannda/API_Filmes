@@ -1,6 +1,6 @@
 API_Filmes
 
-Criação de uma API utilizando a ferramenta Postman.
+Criação de uma API utilizando a ferramenta Postman. A linguagem de programação utilizada foi o Python.
 
 Nessa API vou cê consegue fazer a consulta mostrando todos os dados, consulta por id, fazer a edição, adicionar e excluir as informações.
 
